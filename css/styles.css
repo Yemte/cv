@@ -1,0 +1,148 @@
+body{
+  color:  #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+
+  font-size: 100%;
+}
+h1{
+  margin: 50px auto 0 auto;
+  font-size: 4.375rem;
+  font-family: 'Sacramento', cursive;
+
+
+color: #ac4b1c;
+}
+h2{
+  font-size: 2rem;
+  font-family: 'Merriweather', serif;
+  color: #ac4b1c;
+  font-weight: normal;
+  padding-bottom: 10PX;
+
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #fca652;
+
+}
+hr{
+  border-style: none;
+  border-top-style:dotted;
+  border-color: #ffefa0;
+  border-width: 6px;
+  width: 4%;
+  margin: 70px auto;
+
+}
+p{
+  line-height: 2;
+}
+a{
+  color:#1199E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+
+}
+a:hover{
+  color: #ac4b1c;
+}
+
+
+/*****************'class *********/
+.top-container
+{
+  background-color: #ffefa0;
+  position: relative;
+  padding-top: 80px;
+
+
+}
+
+.middle-container{
+  margin: 100px 0;
+}
+.bottom-container{
+  background-color: #ac4b1c;
+  padding: 50px 0 20px;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 200px;
+  top: 40px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 150px;
+  bottom: 200px;
+
+}
+.palm{
+  width: 22%;
+}
+.profile-img {
+  width: 220px;
+  height: 220px;
+  border-radius: 50%;
+
+}
+
+.footer-link{
+  color: #fca652;
+}
+
+
+.skill-row{
+  width: 50%;
+  margin: 30px auto 10px auto ;
+  text-align: left;
+
+}
+.web{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+
+
+}
+.mobile-app{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+
+}
+
+.Introduction{
+  width: 30%;
+  margin: auto;
+}
+
+.contact{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+.copyryt{
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+
+.btn {
+  -webkit-border-radius: 9;
+  -moz-border-radius: 9;
+  border-radius: 9px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 17px;
+  background: #ac4b1c;
+  padding: 8px 12px 6px 16px;
+  text-decoration: none;
+
+}
+
+.btn:hover {
+  text-decoration: none;
+}
